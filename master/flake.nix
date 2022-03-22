@@ -9,7 +9,7 @@
   
   inputs.src-paratext-master.flake = false;
   inputs.src-paratext-master.owner = "paranim";
-  inputs.src-paratext-master.ref   = "refs/heads/master";
+  inputs.src-paratext-master.ref   = "master";
   inputs.src-paratext-master.repo  = "paratext";
   inputs.src-paratext-master.type  = "github";
   
