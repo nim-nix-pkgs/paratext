@@ -11,7 +11,6 @@
   inputs.src-paratext-master.ref   = "refs/heads/master";
   inputs.src-paratext-master.owner = "paranim";
   inputs.src-paratext-master.repo  = "paratext";
-  inputs.src-paratext-master.dir   = "";
   inputs.src-paratext-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

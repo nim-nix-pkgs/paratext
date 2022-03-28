@@ -11,7 +11,6 @@
   inputs.src-paratext-0_11_0.ref   = "refs/tags/0.11.0";
   inputs.src-paratext-0_11_0.owner = "paranim";
   inputs.src-paratext-0_11_0.repo  = "paratext";
-  inputs.src-paratext-0_11_0.dir   = "";
   inputs.src-paratext-0_11_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

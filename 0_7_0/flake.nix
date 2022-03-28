@@ -11,7 +11,6 @@
   inputs.src-paratext-0_7_0.ref   = "refs/tags/0.7.0";
   inputs.src-paratext-0_7_0.owner = "paranim";
   inputs.src-paratext-0_7_0.repo  = "paratext";
-  inputs.src-paratext-0_7_0.dir   = "";
   inputs.src-paratext-0_7_0.type  = "github";
   
   inputs."paranim".owner = "nim-nix-pkgs";
